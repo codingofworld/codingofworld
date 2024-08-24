@@ -1,9 +1,9 @@
 /*============================================
 
-   Theme Name: SkillGro - Online Courses & Education Template
-   Author : ThemeGenix
-   Support: themegenix@gmail.com
-   Description: SkillGro - Online Courses & Education Template
+   Theme Name: CodeServir Learning 
+   Author : errobin
+   Support: errobin@gmail.com
+   Description: CodeServir Learning 
    Version: 1.0
 
 ==============================================*/
@@ -11568,11 +11568,19 @@ textarea {
   position: relative;
   z-index: 1;
 }
-.instructor__bg {
+/* .instructor__bg {
   background-size: cover;
   background-position: center;
   padding: 265px 0 120px;
   margin-top: -145px;
+  position: relative;
+  z-index: 1;
+} */
+.instructor__bg {
+  background-size: cover;
+  background-position: center;
+  padding: 60px 0 60px;
+  /* margin-top: -145px; */
   position: relative;
   z-index: 1;
 }
@@ -18198,7 +18206,7 @@ blockquote > p {
 .contact-form-wrap .form-grp {
   margin-bottom: 20px;
 }
-.contact-form-wrap .form-grp input, .contact-form-wrap .form-grp textarea {
+.contact-form-wrap .form-grp input, .contact-form-wrap .form-grp textarea, .contact-form-wrap .form-grp select {
   width: 100%;
   border: 1px solid #E1E4E7;
   border-radius: 5px;
@@ -18211,7 +18219,7 @@ blockquote > p {
   height: 50px;
   transition: 0.3s;
 }
-.contact-form-wrap .form-grp input::placeholder, .contact-form-wrap .form-grp textarea::placeholder {
+.contact-form-wrap .form-grp input::placeholder, .contact-form-wrap .form-grp textarea, .contact-form-wrap .form-grp select::placeholder {
   font-weight: 400;
   font-size: 16px;
   color: var(--tg-body-color);
