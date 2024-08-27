@@ -77,11 +77,11 @@
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                     <ul class="navigation">
-                                        <li class="active"><a href="index.html">Home</a>
+                                        <li class="active"><a href="index.php">Home</a>
                                         </li>
-                                        <li class=""><a href="about-us.html">About Us</a>
+                                        <li class=""><a href="about-us.php">About Us</a>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">Courses</a>
+                                        <li class="menu-item-has-children"><a href="cources.php">Courses</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item-has-children"><a href="courses.html">Web
                                                         Development</a>
@@ -153,14 +153,14 @@
                                         </li>
                                         <li class="menu-item-has-children"><a href="#">Training</a>
                                             <ul class="sub-menu">
-                                                <li><a href="winter-training.php">Winter Training</a></li>
-                                                <li><a href="summer-training.html">Summer Training</a></li>
-                                                <li><a href="apprenticeship.html">Apprenticeship Training</a></li>
+                                                <li><a href="winter-training-in-lucknow.php">Winter Training</a></li>
+                                                <li><a href="summer-training-in-lucknow.php">Summer Training</a></li>
+                                                <li><a href="apprenticeship-training-in-lucknow.php">Apprenticeship Training</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="instructors.html">Our Team</a>
+                                        <li><a href="our-teams.php">Our Team</a>
                                         </li>
-                                        <li><a href="contact.html">Contact Us</a>
+                                        <li><a href="contact-us.php">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
