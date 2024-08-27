@@ -1296,17 +1296,16 @@ include('template/header.php');
                                                     <i class="fas fa-star"></i>
                                                     <i class="fas fa-star"></i>
                                                 </div>
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled
-                                                    to make a type specimen book hass”</p>
+                                                <p>“ The trainers at CodeServir are industry experts who make complex topics easy to understand. I’m now developing apps with confidence.”</p>
                                             </div>
                                             <div class="testimonial__author testimonial__author-two">
-                                                <div class="testimonial__author-thumb testimonial__author-thumb-two">
+                                                <!-- <div class="testimonial__author-thumb testimonial__author-thumb-two">
                                                     <img src="assets/img/others/testi_author01.png" alt="img">
-                                                </div>
+                                                </div> -->
                                                 <div
                                                     class="testimonial__author-content testimonial__author-content-two">
-                                                    <h2 class="title">Wade Warren</h2>
-                                                    <span>Designer</span>
+                                                    <h2 class="title">Nisha Gupta</h2>
+                                                    <span>Student</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1322,17 +1321,16 @@ include('template/header.php');
                                                     <i class="fas fa-star"></i>
                                                     <i class="fas fa-star"></i>
                                                 </div>
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled
-                                                    to make a type specimen book hass”</p>
+                                                <p>“ The live project exposure at CodeServir was invaluable. It gave me practical experience that I couldn’t have gained elsewhere.”</p>
                                             </div>
                                             <div class="testimonial__author testimonial__author-two">
-                                                <div class="testimonial__author-thumb testimonial__author-thumb-two">
+                                                <!-- <div class="testimonial__author-thumb testimonial__author-thumb-two">
                                                     <img src="assets/img/others/testi_author02.png" alt="img">
-                                                </div>
+                                                </div> -->
                                                 <div
                                                     class="testimonial__author-content testimonial__author-content-two">
-                                                    <h2 class="title">Jenny Wilson</h2>
-                                                    <span>Designer</span>
+                                                    <h2 class="title">Rahul Singh</h2>
+                                                    <span>Student</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1348,17 +1346,16 @@ include('template/header.php');
                                                     <i class="fas fa-star"></i>
                                                     <i class="fas fa-star"></i>
                                                 </div>
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled
-                                                    to make a type specimen book hass”</p>
+                                                <p>“The course content was up-to-date with the latest industry standards. I now feel confident in my skills and ready to start my career in IT.”</p>
                                             </div>
                                             <div class="testimonial__author testimonial__author-two">
-                                                <div class="testimonial__author-thumb testimonial__author-thumb-two">
+                                                <!-- <div class="testimonial__author-thumb testimonial__author-thumb-two">
                                                     <img src="assets/img/others/testi_author03.png" alt="img">
-                                                </div>
+                                                </div> -->
                                                 <div
                                                     class="testimonial__author-content testimonial__author-content-two">
-                                                    <h2 class="title">Kristin Watson</h2>
-                                                    <span>Designer</span>
+                                                    <h2 class="title">Priya Verma</h2>
+                                                    <span>Student</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1374,17 +1371,16 @@ include('template/header.php');
                                                     <i class="fas fa-star"></i>
                                                     <i class="fas fa-star"></i>
                                                 </div>
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled
-                                                    to make a type specimen book hass”</p>
+                                                <p>“ CodeServir’s Winter Training was transformative. The hands-on projects and expert guidance helped me build a strong foundation in web development.”</p>
                                             </div>
                                             <div class="testimonial__author testimonial__author-two">
-                                                <div class="testimonial__author-thumb testimonial__author-thumb-two">
+                                                <!-- <div class="testimonial__author-thumb testimonial__author-thumb-two">
                                                     <img src="assets/img/others/testi_author02.png" alt="img">
-                                                </div>
+                                                </div> -->
                                                 <div
                                                     class="testimonial__author-content testimonial__author-content-two">
-                                                    <h2 class="title">Jenny Wilson</h2>
-                                                    <span>Designer</span>
+                                                    <h2 class="title">Amit Sharma</h2>
+                                                    <span>Student</span>
                                                 </div>
                                             </div>
                                         </div>

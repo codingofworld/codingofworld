@@ -322,9 +322,9 @@ We believe that these certifications demonstrate our commitment to providing hig
                                         <div class="testimonial__item">
                                             <div class="testimonial__item-top">
                                                 <div class="testimonial__author">
-                                                    <div class="testimonial__author-thumb">
+                                                    <!-- <div class="testimonial__author-thumb">
                                                         <img src="assets/img/others/testi_author01.png" alt="img">
-                                                    </div>
+                                                    </div> -->
                                                     <div class="testimonial__author-content">
                                                         <div class="rating">
                                                             <i class="fas fa-star"></i>
@@ -333,12 +333,13 @@ We believe that these certifications demonstrate our commitment to providing hig
                                                             <i class="fas fa-star"></i>
                                                             <i class="fas fa-star"></i>
                                                         </div>
-                                                        <h2 class="title">Wade Warren</h2>
+                                                        <h2 class="title">Arjun Patel
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled to make a type specimen book hass”</p>
+                                                <p>“ CodeServir’s Winter Training introduced me to data science in a way that was both engaging and comprehensive. Highly recommend it!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -346,9 +347,9 @@ We believe that these certifications demonstrate our commitment to providing hig
                                         <div class="testimonial__item">
                                             <div class="testimonial__item-top">
                                                 <div class="testimonial__author">
-                                                    <div class="testimonial__author-thumb">
+                                                    <!-- <div class="testimonial__author-thumb">
                                                         <img src="assets/img/others/testi_author02.png" alt="img">
-                                                    </div>
+                                                    </div> -->
                                                     <div class="testimonial__author-content">
                                                         <div class="rating">
                                                             <i class="fas fa-star"></i>
@@ -357,12 +358,12 @@ We believe that these certifications demonstrate our commitment to providing hig
                                                             <i class="fas fa-star"></i>
                                                             <i class="fas fa-star"></i>
                                                         </div>
-                                                        <h2 class="title">Jenny Wilson</h2>
+                                                        <h2 class="title">Sakshi Jain</h2>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled to make a type specimen book hass”</p>
+                                                <p>“ The support from instructors was incredible. They were always available to help, making the learning experience smooth and rewarding.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -370,9 +371,9 @@ We believe that these certifications demonstrate our commitment to providing hig
                                         <div class="testimonial__item">
                                             <div class="testimonial__item-top">
                                                 <div class="testimonial__author">
-                                                    <div class="testimonial__author-thumb">
+                                                    <!-- <div class="testimonial__author-thumb">
                                                         <img src="assets/img/others/testi_author03.png" alt="img">
-                                                    </div>
+                                                    </div> -->
                                                     <div class="testimonial__author-content">
                                                         <div class="rating">
                                                             <i class="fas fa-star"></i>
@@ -381,12 +382,12 @@ We believe that these certifications demonstrate our commitment to providing hig
                                                             <i class="fas fa-star"></i>
                                                             <i class="fas fa-star"></i>
                                                         </div>
-                                                        <h2 class="title">Guy Hawkins</h2>
+                                                        <h2 class="title">Vikram Rao</h2>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled to make a type specimen book hass”</p>
+                                                <p>“ This training was exactly what I needed to upgrade my skills. The curriculum was thorough, and the learning environment was motivating.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -394,9 +395,9 @@ We believe that these certifications demonstrate our commitment to providing hig
                                         <div class="testimonial__item">
                                             <div class="testimonial__item-top">
                                                 <div class="testimonial__author">
-                                                    <div class="testimonial__author-thumb">
+                                                    <!-- <div class="testimonial__author-thumb">
                                                         <img src="assets/img/others/testi_author02.png" alt="img">
-                                                    </div>
+                                                    </div> -->
                                                     <div class="testimonial__author-content">
                                                         <div class="rating">
                                                             <i class="fas fa-star"></i>
@@ -405,12 +406,12 @@ We believe that these certifications demonstrate our commitment to providing hig
                                                             <i class="fas fa-star"></i>
                                                             <i class="fas fa-star"></i>
                                                         </div>
-                                                        <h2 class="title">Jenny Wilson</h2>
+                                                        <h2 class="title">Shalini Yadav</h2>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“ when an unknown printer took alley ffferer area typey and scrambled to make a type specimen book hass”</p>
+                                                <p>“ CodeServir’s Winter Program helped me become a full-stack developer. The balance between theory and practice was perfect.”</p>
                                             </div>
                                         </div>
                                     </div>

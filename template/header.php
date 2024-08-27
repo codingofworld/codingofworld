@@ -105,7 +105,7 @@
                                                                 href="wordpress-development-course-in-lucknow.php">Wordpress
                                                                 Development</a></li>
                                                         <li class="border-look" value="34"><a
-                                                                href="mern(stack)-development-course-in-lucknow copy.php">MERN (
+                                                                href="mern(stack)-development-course-in-lucknow.php">MERN (
                                                                 Full Stack )
                                                                 Development</a></li>
                                                     </ul>

@@ -28,12 +28,15 @@
                             <h4 class="footer__widget-title">Useful Links</h4>
                             <div class="footer__link">
                                 <ul class="list-wrap">
-                                    <li><a href="events-details.html">Our values</a></li>
-                                    <li><a href="events-details.html">Our advisory board</a></li>
-                                    <li><a href="events-details.html">Our partners</a></li>
-                                    <li><a href="events-details.html">Become a partner</a></li>
-                                    <li><a href="events-details.html">Work at Future Learn</a></li>
-                                    <li><a href="events-details.html">Quizlet Plus</a></li>
+                                    <li><a href="winter-training-in-lucknow.php">Winter Training</a></li>
+                                    <li><a href="summer-training-in-lucknow.php">Summer Training</a></li>
+                                    <li><a href="apprenticeship-training-in-lucknow.php">Apprenticeship Training </a></li>
+                                    <li><a href="mern(stack)-development-course-in-lucknow.php">Mern Stack</a></li>
+                                    <li><a href="python-programming.php">Python Programming</a></li>
+                                    <li><a href="java-programming.php">Java Programming</a></li>
+                                    <li><a href="c-plus-plus-programming.php">c/c++ Programming</a></li>
+                                    <li><a href="asp-dot-net-development-course-in-lucknow.php">ASP.Net Development </a></li>
+                                    <li><a href="android-development.php">Android Development</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -43,11 +46,14 @@
                             <h4 class="footer__widget-title">Our Company</h4>
                             <div class="footer__link">
                                 <ul class="list-wrap">
-                                    <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="instructor-details.html">Become Teacher</a></li>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="instructor-details.html">Instructor</a></li>
-                                    <li><a href="events-details.html">Events</a></li>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a href="cources.php">Courses</a></li>
+                                    <li><a href="java-programming.php#">Training</a></li>
+                                    <li><a href="our-teams.php">Our Team</a></li>
+                                    <li><a href="contact-us.php">Contact Us</a></li>
+                                    <li><a href="contact-us.php">Privecy&Policy</a></li>
+                                    <li><a href="contact-us.php">Term And Conditions</a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
