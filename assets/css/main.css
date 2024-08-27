@@ -7491,7 +7491,7 @@ textarea {
   align-items: center;
   font-size: 15px;
   margin: 0 0;
-  line-height: 1;
+  line-height: 24px;
   gap: 5px;
 }
 .courses__item .author a {
