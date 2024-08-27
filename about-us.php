@@ -65,7 +65,11 @@ include('template/header.php');
                                     Goal For Next Level Challenge.
                                 </h2>
                             </div>
-                            <p class="desc">when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+                            <p class="desc">Welcome to CodeServir! We are a leading provider of professional training and education services in Lucknow, specializing in IT courses with certification. We are proud to hold a number of certifications that attest to the quality and value of our programs.
+<br>
+We believe that these certifications demonstrate our commitment to providing high-quality training and education to individuals and organizations across India. Thank you for considering CodeServir as your partner in professional development!
+
+</p>
                             <ul class="about__info-list list-wrap">
                                 <li class="about__info-list-item">
                                     <i class="flaticon-angle-right"></i>
@@ -81,7 +85,7 @@ include('template/header.php');
                                 </li>
                             </ul>
                             <div class="tg-button-wrap">
-                                <a href="contact.html" class="btn arrow-btn">Start Free Trial <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
+                                <a href="contact.html" class="btn arrow-btn">Register for Training <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                             </div>
                         </div>
                     </div>
@@ -143,7 +147,7 @@ include('template/header.php');
                         <div class="section__title text-center mb-40">
                             <span class="sub-title">What We Offer</span>
                             <h2 class="title">Learn New Skills When And Where You Like</h2>
-                            <p>when known printer took a galley of type scrambl edmake</p>
+                            <p>Explore Our World-Class Courses and Unlock Your Potential!</p>
                         </div>
                     </div>
                 </div>
@@ -305,7 +309,7 @@ include('template/header.php');
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">Our Testimonials</span>
                             <h2 class="title">What Students Think and Say About SkillGrow</h2>
-                            <p>when known printer took a galley of type scrambl edmake</p>
+                            <p>Explore Our World-Class Courses and Unlock Your Potential!</p>
                         </div>
                     </div>
                 </div>

@@ -89,24 +89,24 @@ include('template/header.php');
                                 <div class="col-md-4">
                                     <div class="courses__item shine__animate-item">
                                         <div class="courses__item-thumb">
-                                            <a href="winter-training.html" class="shine__animate-link">
+                                            <a href="winter-training-in-lucknow.php" class="shine__animate-link">
                                                 <img src="assets/img/training/winter.png" alt="img">
                                             </a>
                                         </div>
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="winter-training.html">Winter</a>
+                                                    <a href="winter-training-in-lucknow.php">Winter</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.8 Reviews)</li>
                                             </ul>
-                                            <h5 class="title"><a href="winter-training.html">Winter Training</a></h5>
+                                            <h5 class="title"><a href="winter-training-in-lucknow.php">Winter Training</a></h5>
                                             <p class="author">Thriving in Winter: Best Winter Training Institute In
                                                 Lucknow
                                             </p>
                                             <div class="courses__item-bottom">
                                                 <div class="button">
-                                                    <a href="winter-training.html">
+                                                    <a href="winter-training-in-lucknow.php">
                                                         <span class="text">Enroll Now</span>
                                                         <i class="flaticon-arrow-right"></i>
                                                     </a>
@@ -118,24 +118,24 @@ include('template/header.php');
                                 <div class="col-md-4">
                                     <div class="courses__item shine__animate-item">
                                         <div class="courses__item-thumb">
-                                            <a href="summer-training.html" class="shine__animate-link">
+                                            <a href="summer-training-in-lucknow.php" class="shine__animate-link">
                                                 <img src="assets/img/training/summer.png" alt="img">
                                             </a>
                                         </div>
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="summer-training.html">Summer</a>
+                                                    <a href="summer-training-in-lucknow.php">Summer</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                                             </ul>
-                                            <h5 class="title"><a href="summer-training.html">Summer Training
+                                            <h5 class="title"><a href="summer-training-in-lucknow.php">Summer Training
                                                 </a></h5>
                                             <p class="author">Best Summer Training In Lucknow - Summer Internship
                                                 Training For CSE / CS/ IT / MCA / BCA / B.Tech</a></p>
                                             <div class="courses__item-bottom">
                                                 <div class="button">
-                                                    <a href="summer-training.html">
+                                                    <a href="summer-training-in-lucknow.php">
                                                         <span class="text">Enroll Now</span>
                                                         <i class="flaticon-arrow-right"></i>
                                                     </a>
@@ -147,24 +147,24 @@ include('template/header.php');
                                 <div class="col-md-4">
                                     <div class="courses__item shine__animate-item">
                                         <div class="courses__item-thumb">
-                                            <a href="apprenticeship.html" class="shine__animate-link">
+                                            <a href="apprenticeship-training-in-lucknow.php" class="shine__animate-link">
                                                 <img src="assets/img/training/apprenticeship.png" alt="img">
                                             </a>
                                         </div>
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="apprenticeship.html">Apprenticeship</a>
+                                                    <a href="apprenticeship-training-in-lucknow.php">Apprenticeship</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.3 Reviews)</li>
                                             </ul>
-                                            <h5 class="title"><a href="apprenticeship.html">Apprenticeship Training
+                                            <h5 class="title"><a href="apprenticeship-training-in-lucknow.php">Apprenticeship Training
                                                 </a></h5>
                                             <p class="author">Transform Your Future: CodeServir Learning Renowned Apprenticeship Training in Lucknow
                                             </p>
                                             <div class="courses__item-bottom">
                                                 <div class="button">
-                                                    <a href="apprenticeship.html">
+                                                    <a href="apprenticeship-training-in-lucknow.php">
                                                         <span class="text">Enroll Now</span>
                                                         <i class="flaticon-arrow-right"></i>
                                                     </a>
@@ -324,7 +324,7 @@ include('template/header.php');
                         <div class="section__title text-center mb-40">
                             <span class="sub-title">Trending Categories</span>
                             <h2 class="title">Top Category We Have</h2>
-                            <p class="desc">when known printer took a galley of type scrambl edmake</p>
+                            <p class="desc">Explore Our World-Class Courses and Unlock Your Potential!</p>
                         </div>
                     </div>
                 </div>
@@ -1401,3 +1401,7 @@ include('template/header.php');
     <!-- main-area-end -->
 
 <?php include('template/footer.php'); ?>
+
+
+
+ 
