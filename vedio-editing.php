@@ -1,6 +1,5 @@
 <?php
-$pageTitle = "Best summer training in lucknow, Summer Training For B.Tech Students Lucknow , Software training in lucknow, Java Training in Lucknow,PHP Training in Lucknow, Full Stack Development Training in Lucknow, Best Software Training Institute in lucknow
-";
+$pageTitle = "Advance Your Career with Lucknow’s Premier Apprenticeship Training";
 include('template/header.php');
 ?>
 
@@ -20,10 +19,10 @@ include('template/header.php');
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="index-2.html">Training</a>
+                            <a href="index-2.html">Courses</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
-                        <span property="itemListElement" typeof="ListItem">Summer Training</span>
+                        <span property="itemListElement" typeof="ListItem">Vedio Editing</span>
                     </nav>
                 </div>
             </div>
@@ -47,7 +46,7 @@ include('template/header.php');
         <div class="row">
             <div class="col-xl-9 col-lg-8">
                 <div class="courses__details-thumb">
-                    <img src="assets/img/training/summer.png" alt="img">
+                    <img src="assets/img/training/apprenticeship.png" alt="img">
                 </div>
                 <div class="courses__details-content">
                     <ul class="courses__item-meta list-wrap">
@@ -56,7 +55,7 @@ include('template/header.php');
                         </li>
                         <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                     </ul>
-                    <h2 class="title">Thriving in Summer: The Premier Summer Training Institute in Lucknow.</h2>
+                    <h2 class="title">Master in Vedio Editing: The Premier Vedio Editing Institute in Lucknow.</h2>
                     <div class="courses__details-meta">
                         <ul class="list-wrap">
                             <li><i class="flaticon-mortarboard"></i>2,250 Students</li>
@@ -78,9 +77,7 @@ include('template/header.php');
                         <div class="tab-pane fade show active" id="overview-tab-pane" role="tabpanel"
                             aria-labelledby="overview-tab" tabindex="0">
                             <div class="courses__overview-wrap">
-                                <h3 class="title">About Our Summer Training Program</h3>
-                                <p>At CodeServir, our Summer Training Program is specially designed for Polytechnic Diploma, B.Tech (CS/IT), BCA, MCA, and M.Tech (CS/IT/PGDCA/Electronics) students who are eager to dive into the IT industry and kick-start their careers as Software Engineers or Developers. This immersive training spans 45-50 days and takes place during the summer months of June-July, offering a comprehensive introduction to software engineering, web development, and mobile application development.</p> <p>At CodeServir Technologies, we offer a variety of training and development platforms tailored to help you learn and explore the latest in technology. Our programs are built around the most current technology versions and frameworks, ensuring you gain up-to-date knowledge. With industry expert trainers and developers, we provide students with valuable live project-based exposure, equipping them to tackle real-world challenges.</p> <h3 class="title">Our Summer Training Program at CodeServir Technologies</h3> <p>At CodeServir Technologies, our Summer Training Program is meticulously crafted to balance theoretical learning with practical application, ensuring students are well-prepared for the competitive IT industry.</p>
-                                <h3 class="title"> Why Our Training Stands Out:</h3>
+                               <h3 class="title">About Our Vedio Editing Course</h3> <p>In today’s fast-moving educational landscape, students often find it challenging to acquire the practical skills and hands-on experience necessary for a successful career. Despite advancements in education, the gap between theoretical knowledge and real-world application continues to widen, leading to increased unemployment rates. Many exciting opportunities in the creative industry remain out of reach for those lacking essential practical experience.</p> <p>To address this gap, CodeServir offers a specialized solution: our Vedio Editing Course. Designed for Polytechnic Diploma, B.Tech (CS/IT), BCA, MCA, and M.Tech (CS/IT/PGDCA/Electronics) students, as well as aspiring designers and professionals from non-technical backgrounds, this course provides a comprehensive, hands-on learning experience. CodeServir is dedicated to equipping you with the skills needed to excel in Vedio Editing, making us a top choice for advancing your career in this dynamic and creative field.</p> <h3 class="title">Expert Guidance</h3> <p>Guided by experienced industry professionals, you will gain invaluable insights that can significantly enhance your learning experience. Our expert instructors will be by your side throughout the course, helping you navigate challenges, correct mistakes, and apply best practices. Their real-world experience will deepen your understanding of Vedio Editing principles and project execution.</p> <h3 class="title">Comprehensive Curriculum</h3> <p>Our meticulously designed curriculum covers all critical aspects of Vedio Editing. From foundational concepts to advanced techniques, you will explore design principles, software proficiency, project development, and creative problem-solving. This thorough approach ensures you acquire a well-rounded understanding of Vedio Editing and are prepared to tackle real-world creative challenges.</p> <h3 class="title">Professional Networking Opportunities</h3> <p>Throughout the course, you will have the chance to connect with industry professionals and fellow creatives. These valuable interactions can lead to future collaborations, internships, and job opportunities, helping you build a strong professional network early in your career.</p> <h3 class="title">Certification</h3> <p>Upon successful completion of the Vedio Editing Course, you will receive a certificate that validates your skills and expertise. This certification will enhance your resume and demonstrate your commitment to professional growth in the field of Vedio Editing.</p> <p>At CodeServir, we are committed to providing you with the practical skills and experience needed to excel in Vedio Editing. Join us to transform your theoretical knowledge into practical expertise and unlock exciting career opportunities in the creative industry.</p>                               <h3 class="title"> Why Our Training Stands Out:</h3>
                                 <ul class="about__info-list list-wrap">
                                     <li class="about__info-list-item">
                                         <i class="flaticon-angle-right"></i>
@@ -108,7 +105,8 @@ include('template/header.php');
                                             necessary for a thriving career in technology. Our expert trainers and hands-on
                                             approach ensure you’re ready to excel in the industry.</p>
                                     </li>
-                                </ul><h3 class="title">Fee Struture</h3>
+                                </ul>
+                                <h3 class="title">Fee Struture</h3>
                                 <div class="courses__information-wrap">
                                     <ul class="list-wrap">
                                         <li>
@@ -118,59 +116,58 @@ include('template/header.php');
                                         <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
-                                            PHP
-                                            <span style="text-align: left;">( ₹ 5,499 / 45 Days ), ( ₹ 10,999 /
-                                                3 Months ), ( ₹ 15,999 / 6 Months ) </span>
+                                                Vedio Editing
+                                                <span>( ₹ 5,499 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6 Months ) </span>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
                                             ASP.NET
                                             <span>( ₹ 5,499 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
-                                        <li>
+                                        </li> -->
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
                                             JAVA
                                             <span>( ₹ 5,499 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
-                                        <li>
+                                        </li> -->
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
-                                            PYTHON
+                                            Kotlin
                                             <span>( ₹ 5,499 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
-                                        <li>
+                                        </li> -->
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
-                                            ANDROID
+                                            React-Native
                                             <span>( ₹ 6,999 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
-                                        <li>
+                                        </li> -->
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
-                                            FLUTTER
+                                            React-Native
                                             <span>( ₹ 5,499 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
-                                        <li>
+                                        </li> -->
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
                                             MERN STACK
                                             <span>( ₹ 5,499 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
-                                        <li>
+                                        </li> -->
+                                        <!-- <li>
                                             <img src="assets/img/icons/course_icon06.svg" alt="img"
                                                 class="injectable">
-                                            WORDPRESS
+                                            Kotlin Programming
                                             <span>( ₹ 3,999 / 45 Days ), ( ₹ 10,999 / 3 Months ), ( ₹ 15,999 / 6
                                                 Months ) </span>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -266,7 +263,7 @@ include('template/header.php');
                                             </div>
                                         </div>
                                         <h4 class="title">Transformative Web Development Training</h4>
-                                        <p>CodeServir’s Winter Training was transformative. The hands-on
+                                        <p>CodeServir’s Apprenticeship Training was transformative. The hands-on
                                             projects and expert guidance helped me build a strong foundation in
                                             web development.</p>
                                     </div>
@@ -345,7 +342,7 @@ include('template/header.php');
                                             </div>
                                         </div>
                                         <h4 class="title">Engaging Data Science Training</h4>
-                                        <p>CodeServir’s Winter Training introduced me to data science in a way
+                                        <p>CodeServir’s Apprenticeship Training introduced me to data science in a way
                                             that was both engaging and comprehensive. Highly recommend it!</p>
                                     </div>
                                 </div>
@@ -443,8 +440,7 @@ include('template/header.php');
                                         </div>
                                         <h4 class="title">Confidence Boost with Practical Projects</h4>
                                         <p>The practical projects gave me the confidence to apply what I’ve
-                                            learned in real-world scenarios. CodeServir’s Winter Program is
-                                            top-notch.</p>
+                                            learned in real-world scenar React-Native. CodeServir’s Winter Program is top-notch.</p>
                                     </div>
                                 </div>
 
@@ -560,7 +556,7 @@ include('template/header.php');
                                             </div>
                                         </div>
                                         <h4 class="title">Practical Skills with Real-World Relevance</h4>
-                                        <p>CodeServir’s Winter Training equipped me with practical skills that I
+                                        <p>CodeServir’s Apprenticeship Training equipped me with practical skills that I
                                             can apply directly to my job. Real-world relevance was a key
                                             takeaway.</p>
                                     </div>

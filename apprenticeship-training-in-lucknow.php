@@ -22,7 +22,7 @@ include('template/header.php');
                             <a href="index-2.html">Training</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
-                        <span property="itemListElement" typeof="ListItem">Winter Training</span>
+                        <span property="itemListElement" typeof="ListItem">Apprenticeship Training</span>
                     </nav>
                 </div>
             </div>
@@ -46,7 +46,7 @@ include('template/header.php');
         <div class="row">
             <div class="col-xl-9 col-lg-8">
                 <div class="courses__details-thumb">
-                    <img src="assets/img/training/winter.png" alt="img">
+                    <img src="assets/img/training/apprenticeship.png" alt="img">
                 </div>
                 <div class="courses__details-content">
                     <ul class="courses__item-meta list-wrap">
@@ -55,7 +55,7 @@ include('template/header.php');
                         </li>
                         <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                     </ul>
-                    <h2 class="title">Thriving in Winter: The Premier Winter Training Institute in Lucknow.</h2>
+                    <h2 class="title">Excel with Confidence: The Premier Apprenticeship Training Institute in Lucknow.</h2>
                     <div class="courses__details-meta">
                         <ul class="list-wrap">
                             <li><i class="flaticon-mortarboard"></i>2,250 Students</li>
@@ -77,26 +77,8 @@ include('template/header.php');
                         <div class="tab-pane fade show active" id="overview-tab-pane" role="tabpanel"
                             aria-labelledby="overview-tab" tabindex="0">
                             <div class="courses__overview-wrap">
-                                <h3 class="title">About Our Winter Training Program</h3>
-                                <p>At CodeServir, our Winter Training Program is specially designed for
-                                    Polytechnic Diploma, B.Tech (CS/IT), BCA, MCA, and M.Tech
-                                    (CS/IT/PGDCA/Electronics) students who are eager to explore the IT industry
-                                    and kick-start their careers as Software Engineers or Developers. This
-                                    intensive training spans 45-50 days and takes place during the winter months
-                                    of December-January, providing a comprehensive introduction to software
-                                    engineering, web development, and mobile application development.</p>
-                                <p>At CodeServir Technologies, we offer a variety of training and development
-                                    platforms designed to help you learn and explore the latest in technology.
-                                    Our programs are built around the most current technology versions and
-                                    frameworks, ensuring you gain comprehensive, up-to-date knowledge. With
-                                    industry expert trainers and developers, we provide students with valuable
-                                    live project-based exposure, preparing them for real-world challenges</p>
-                                <h3 class="title">Our Winter Training Program at CodeServir Technologies</h3>
-
-                               <p> At DigiCoders Technologies, our Winter Training Program is meticulously crafted
-                                to balance theoretical learning with practical application, ensuring students
-                                are well-prepared for the competitive IT industry.</p>
-
+                                <h3 class="title">About Our Apprenticeship Training Program</h3>
+                                <p>In today’s dynamic educational environment, students frequently struggle to gain the practical skills and hands-on experience essential for success. Despite educational advancements, the chasm between classroom theory and real-world application continues to grow, leading to rising unemployment rates. Numerous promising opportunities in the IT sector remain elusive to those who lack critical practical experience.</p> <p>To address these challenges, CodeServir offers a unique solution: our Apprenticeship Training Program. Designed specifically for Polytechnic Diploma, B.Tech (CS/IT), BCA, MCA, and M.Tech (CS/IT/PGDCA/Electronics) students, as well as job aspirants in the IT sector and candidates from non-technical backgrounds, our program provides an invaluable opportunity to gain practical experience and industry-relevant skills. CodeServir is committed to bridging the gap between education and industry requirements, positioning itself as a leading institute for apprenticeship training.</p> <h3 class="title">Expert Guidance</h3> <p>Working under the mentorship of industry professionals can significantly enhance your learning experience. Our expert mentors will be with you throughout the apprenticeship, helping you identify and correct mistakes, providing practical wisdom, and sharing best practices. Their real-life insights and guidance will deepen your understanding of industry intricacies and project management methodologies.</p> <h3 class="title">Comprehensive Curriculum</h3> <p>Our carefully crafted curriculum covers all essential aspects of apprenticeship training, designed to fit the program's duration. You will engage with project selection, strategic planning, execution, documentation, and presentation. This thorough approach ensures you gain a well-rounded understanding of the entire project lifecycle.</p> <h3 class="title">Professional Networking Opportunities</h3> <p>During the apprenticeship, you will have the opportunity to connect with industry professionals and like-minded peers. These interactions can pave the way for future collaborations, internships, and job opportunities, and help you build a strong professional network early in your career.</p> <h3 class="title">Certification</h3> <p>Upon successful completion of our apprenticeship training program, you will receive a certificate that acknowledges your participation and the skills you have developed. This certification will enhance your resume and showcase your commitment to professional growth.</p> <p>At CodeServir, we are dedicated to providing you with the skills and experience needed to excel in the IT industry. Join us to transform your theoretical knowledge into practical expertise and open doors to exciting career opportunities.</p>
                                 <h3 class="title"> Why Our Training Stands Out:</h3>
                                 <ul class="about__info-list list-wrap">
                                     <li class="about__info-list-item">
@@ -283,7 +265,7 @@ include('template/header.php');
                                             </div>
                                         </div>
                                         <h4 class="title">Transformative Web Development Training</h4>
-                                        <p>CodeServir’s Winter Training was transformative. The hands-on
+                                        <p>CodeServir’s Apprenticeship Training was transformative. The hands-on
                                             projects and expert guidance helped me build a strong foundation in
                                             web development.</p>
                                     </div>
@@ -362,7 +344,7 @@ include('template/header.php');
                                             </div>
                                         </div>
                                         <h4 class="title">Engaging Data Science Training</h4>
-                                        <p>CodeServir’s Winter Training introduced me to data science in a way
+                                        <p>CodeServir’s Apprenticeship Training introduced me to data science in a way
                                             that was both engaging and comprehensive. Highly recommend it!</p>
                                     </div>
                                 </div>
@@ -577,7 +559,7 @@ include('template/header.php');
                                             </div>
                                         </div>
                                         <h4 class="title">Practical Skills with Real-World Relevance</h4>
-                                        <p>CodeServir’s Winter Training equipped me with practical skills that I
+                                        <p>CodeServir’s Apprenticeship Training equipped me with practical skills that I
                                             can apply directly to my job. Real-world relevance was a key
                                             takeaway.</p>
                                     </div>

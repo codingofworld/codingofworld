@@ -87,25 +87,25 @@
                                                         Development</a>
                                                     <ul class="sub-menu" id="sub-menu-1" style="display: block;">
                                                         <li class="border-look" value="28"><a
-                                                                href="/asp-dot-net-development-course-in-lucknow">ASP.Net
+                                                                href="asp-dot-net-development-course-in-lucknow.php">ASP.Net
                                                                 Development</a></li>
                                                         <li class="border-look" value="30"><a
-                                                                href="/php-development-course-in-lucknow">PHP
+                                                                href="php-development-course-in-lucknow.php">PHP
                                                                 Development</a></li>
                                                         <li class="border-look" value="31"><a
-                                                                href="/python-development-course-in-lucknow">Python
+                                                                href="python-development-course-in-lucknow.php">Python
                                                                 Development</a></li>
                                                         <li class="border-look" value="32"><a
-                                                                href="/java-development-course-in-lucknow">Java
+                                                                href="java-development-course-in-lucknow copy.php">Java
                                                                 Development</a></li>
                                                         <li class="border-look" value="33"><a
-                                                                href="/frontend-development-course-in-lucknow">Frontend
+                                                                href="frontend-development-course-in-lucknow.php">Frontend
                                                                 Development</a></li>
                                                         <li class="border-look" value="34"><a
-                                                                href="/wordpress-development-course-in-lucknow">Wordpress
+                                                                href="wordpress-development-course-in-lucknow.php">Wordpress
                                                                 Development</a></li>
                                                         <li class="border-look" value="34"><a
-                                                                href="/wordpress-development-course-in-lucknow">MERN (
+                                                                href="mern(stack)-development-course-in-lucknow copy.php">MERN (
                                                                 Full Stack )
                                                                 Development</a></li>
                                                     </ul>
@@ -114,41 +114,41 @@
                                                         href="course-details.html">Programming Language</a>
                                                     <ul class="sub-menu" id="sub-menu-3" style="display: block;">
                                                         <li class="border-look" value="43"><a
-                                                                href="/c-sharp-programming">C # programming</a></li>
+                                                                href="c-sharp-programming.php">C # programming</a></li>
                                                         <li class="border-look" value="44"><a
-                                                                href="/c-plus-plus-programming">C/C++ Programming</a>
+                                                                href="c-plus-plus-programming.php">C/C++ Programming</a>
                                                         </li>
                                                         <li class="border-look" value="45"><a
-                                                                href="/java-programming">Java programming</a></li>
+                                                                href="java-programming.php">Java programming</a></li>
                                                         <li class="border-look" value="46"><a
-                                                                href="/php-programming">Php programming</a></li>
+                                                                href="php-programming.php">Php programming</a></li>
                                                         <li class="border-look" value="47"><a
-                                                                href="/python-programming">Python Programming</a></li>
+                                                                href="python-programming.php">Python Programming</a></li>
                                                         <li class="border-look" value="47"><a
-                                                                href="/python-programming">Dart Programming</a></li>
+                                                                href="dart-programming.php">Dart Programming</a></li>
                                                         <li class="border-look" value="47"><a
-                                                                href="/python-programming">Swift Programming</a></li>
+                                                                href="swift-programming.php">Swift Programming</a></li>
                                                         <li class="border-look" value="47"><a
-                                                                href="/python-programming">Kotlin Programming</a></li>
+                                                                href="kotlin-programming.php">Kotlin Programming</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children"><a href="lesson.html">App
                                                         Development</a>
                                                     <ul class="sub-menu" id="sub-menu-3" style="display: block;">
                                                         <li class="border-look" value="43"><a
-                                                                href="/c-sharp-programming">Android</a></li>
+                                                                href="android-development.php">Android</a></li>
                                                         <li class="border-look" value="44"><a
-                                                                href="/c-plus-plus-programming"><small>i</small>OS</a>
+                                                                href="ios-development.php"><small>i</small>OS</a>
                                                         </li>
                                                         <li class="border-look" value="45"><a
-                                                                href="/java-programming">Flutter</a></li>
+                                                                href="flutter-development.php">Flutter</a></li>
                                                         <li class="border-look" value="46"><a
-                                                                href="/php-programming">React-Native</a></li>
+                                                                href="react-native-development.php">React-Native</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="lesson.html">Graphics Design</a></li>
-                                                <li><a href="lesson.html">Personality Development</a></li>
-                                                <li><a href="lesson.html">Video Editing</a></li>
+                                                <li><a href="graphics-design-training-in-lucknow.php">Graphics Design</a></li>
+                                                <li><a href="pesronality-development.php">Personality Development</a></li>
+                                                <li><a href="vedio-editing.php">Video Editing</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children"><a href="#">Training</a>
