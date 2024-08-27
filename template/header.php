@@ -153,7 +153,7 @@
                                         </li>
                                         <li class="menu-item-has-children"><a href="#">Training</a>
                                             <ul class="sub-menu">
-                                                <li><a href="winter-training.html">Winter Training</a></li>
+                                                <li><a href="winter-training.php">Winter Training</a></li>
                                                 <li><a href="summer-training.html">Summer Training</a></li>
                                                 <li><a href="apprenticeship.html">Apprenticeship Training</a></li>
                                             </ul>
