@@ -72,7 +72,7 @@
                         <div class="tgmenu__wrap">
                             <nav class="tgmenu__nav">
                                 <div class="logo">
-                                    <a href="index-2.html"><img src="assets/img/logo/logo.png" alt="Logo"
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" alt="Logo"
                                             width="100"></a>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
