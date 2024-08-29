@@ -19,7 +19,7 @@ include('template/header.php');
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="cources.php">Courses</a>
+                            <a href="#">Courses</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">Kotlin Programming</span>

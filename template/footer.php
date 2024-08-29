@@ -47,7 +47,7 @@
                             <div class="footer__link">
                                 <ul class="list-wrap">
                                     <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="cources.php">Courses</a></li>
+                                    <li><a href="#">Courses</a></li>
                                     <li><a href="java-programming.php#">Training</a></li>
                                     <li><a href="our-teams.php">Our Team</a></li>
                                     <li><a href="contact-us.php">Contact Us</a></li>

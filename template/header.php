@@ -53,11 +53,11 @@
                             </div>
                             <ul class="tg-header__top-social list-wrap">
                                 <li>Follow Us On :</li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://www.instagram.com/codeservir/"><i class="fab fa-instagram"></i></a></li>
+                                <!-- <li><a href="#"><i class="fab fa-twitter"></i></a></li> -->
+                                <li><a href="https://wa.me/+919455791624."><i class="fab fa-whatsapp"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/codeservir-technologies-private-limited/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <!-- <li><a href="#"><i class="fab fa-youtube"></i></a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -81,9 +81,9 @@
                                         </li>
                                         <li class=""><a href="about-us.php">About Us</a>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="cources.php">Courses</a>
+                                        <li class="menu-item-has-children"><a href="#">Courses</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item-has-children"><a href="courses.html">Web
+                                                <li class="menu-item-has-children"><a href="#">Web
                                                         Development</a>
                                                     <ul class="sub-menu" id="sub-menu-1" style="display: block;">
                                                         <li class="border-look" value="28"><a
@@ -111,7 +111,7 @@
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item-has-children"><a
-                                                        href="course-details.html">Programming Language</a>
+                                                        href="#">Programming Language</a>
                                                     <ul class="sub-menu" id="sub-menu-3" style="display: block;">
                                                         <li class="border-look" value="43"><a
                                                                 href="c-sharp-programming.php">C # programming</a></li>
@@ -132,7 +132,7 @@
                                                                 href="kotlin-programming.php">Kotlin Programming</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item-has-children"><a href="lesson.html">App
+                                                <li class="menu-item-has-children"><a href="#">App
                                                         Development</a>
                                                     <ul class="sub-menu" id="sub-menu-3" style="display: block;">
                                                         <li class="border-look" value="43"><a
