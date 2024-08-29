@@ -185,39 +185,39 @@ include('template/header.php');
             <div class="container-fluid">
                 <div class="marquee_mode">
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand01.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand01.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand02.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand02.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand03.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand03.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand04.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand04.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand05.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand05.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand06.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand06.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand07.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand07.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand04.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand04.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                     <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand03.png" alt="brand"></a>
+                        <a href="javascript:void(0)"><img src="assets/img/brand/brand03.png" alt="brand"></a>
                         <img src="assets/img/icons/brand_star.svg" alt="star">
                     </div>
                 </div>
@@ -335,7 +335,7 @@ include('template/header.php');
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="cources.php">
+                                            <a href="courses.html">
                                                 <div class="icon">
                                                     <i class="flaticon-graphic-design"></i>
                                                 </div>
@@ -345,7 +345,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="cources.php">
+                                            <a href="courses.html">
                                                 <div class="icon">
                                                     <i class="flaticon-coding"></i>
                                                 </div>
@@ -355,7 +355,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="cources.php">
+                                            <a href="courses.html">
                                                 <div class="icon">
                                                     <i class="flaticon-email"></i>
                                                 </div>
@@ -365,7 +365,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="cources.php">
+                                            <a href="courses.html">
                                                 <div class="icon">
                                                     <i class="flaticon-certificate"></i>
                                                 </div>
@@ -375,7 +375,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="cources.php">
+                                            <a href="courses.html">
                                                 <div class="icon">
                                                     <i class="flaticon-interaction"></i>
                                                 </div>
@@ -385,7 +385,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="cources.php">
+                                            <a href="courses.html">
                                                 <div class="icon">
                                                     <i class="flaticon-web-design"></i>
                                                 </div>
@@ -701,10 +701,10 @@ include('template/header.php');
                                                 reproduced below for those interested.</p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -741,10 +741,10 @@ include('template/header.php');
                                                 reproduced below for those interested.</p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -781,10 +781,10 @@ include('template/header.php');
                                                 reproduced below for those interested.</p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -821,10 +821,10 @@ include('template/header.php');
                                                 reproduced below for those interested.</p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -861,10 +861,10 @@ include('template/header.php');
                                                 reproduced below for those interested.</p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -901,10 +901,10 @@ include('template/header.php');
                                                 reproduced below for those interested.</p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -942,10 +942,10 @@ include('template/header.php');
                                             </p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
+                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
@@ -1228,10 +1228,10 @@ include('template/header.php');
                                     </div>
                                 </div>
                                 <div class="instructor__content-two">
-                                    <h3 class="title"><a href="contact.html">Become a Part</a></h3>
+                                    <h3 class="title"><a href="javascript:void(0)">Become a Part</a></h3>
                                     <p>Become a Part of Excellence: Join CodeServir and Transform Your Future.                                        .</p>
                                     <div class="tg-button-wrap">
-                                        <a href="contact.html" class="btn arrow-btn">Apply Now <img
+                                        <a href="javascript:void(0)" class="btn arrow-btn">Apply Now <img
                                                 src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                                     </div>
                                 </div>

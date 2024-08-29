@@ -19,7 +19,7 @@ include('template/header.php');
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="#">Courses</a>
+                            <a href="javascript:void(0)">Courses</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">Python Programming</span>
@@ -697,7 +697,7 @@ include('template/header.php');
                     </div>
                     <div class="courses__details-enroll">
                         <div class="tg-button-wrap">
-                            <a href="courses.html" class="btn btn-two arrow-btn">
+                            <a href="javascript:void(0)" class="btn btn-two arrow-btn">
                                 Registration Started
                                 <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable">
                             </a>

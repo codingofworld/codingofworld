@@ -696,7 +696,7 @@ include('template/header.php');
                     </div>
                     <div class="courses__details-enroll">
                         <div class="tg-button-wrap">
-                            <a href="courses.html" class="btn btn-two arrow-btn">
+                            <a href="javascript:void(0)" class="btn btn-two arrow-btn">
                                 Registration Started
                                 <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable">
                             </a>

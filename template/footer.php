@@ -47,7 +47,7 @@
                             <div class="footer__link">
                                 <ul class="list-wrap">
                                     <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="#">Courses</a></li>
+                                    <li><a href="javascript:void(0)">Courses</a></li>
                                     <li><a href="java-programming.php#">Training</a></li>
                                     <li><a href="our-teams.php">Our Team</a></li>
                                     <li><a href="contact-us.php">Contact Us</a></li>
@@ -70,8 +70,8 @@
                                 </form>
                             </div>
                             <!-- <div class="app-download">
-                                <a href="#"><img src="assets/img/others/google-play.svg" alt="img"></a>
-                                <a href="#"><img src="assets/img/others/apple-store.svg" alt="img"></a>
+                                <a href="javascript:void(0)"><img src="assets/img/others/google-play.svg" alt="img"></a>
+                                <a href="javascript:void(0)"><img src="assets/img/others/apple-store.svg" alt="img"></a>
                             </div> -->
                         </div>
                     </div>
