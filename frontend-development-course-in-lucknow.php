@@ -15,11 +15,11 @@ include('template/header.php');
                 <div class="breadcrumb__content">
                     <nav class="breadcrumb">
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="index-2.html">Home</a>
+                            <a href="index.php">Home</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="index-2.html">Courses</a>
+                            <a href="cources.php">Courses</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">Frontend Development Course</span>
@@ -44,10 +44,10 @@ include('template/header.php');
 <section class="courses__details-area section-py-120">
     <div class="container">
         <div class="row">
-            <div class="col-xl-9 col-lg-8">
+            <!-- <div class="col-xl-9 col-lg-8">
                 <div class="courses__details-thumb">
                     <img src="assets/img/training/apprenticeship.png" alt="img">
-                </div>
+                </div> -->
                 <div class="courses__details-content">
                     <ul class="courses__item-meta list-wrap">
                         <li class="courses__item-tag">

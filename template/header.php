@@ -96,7 +96,7 @@
                                                                 href="python-development-course-in-lucknow.php">Python
                                                                 Development</a></li>
                                                         <li class="border-look" value="32"><a
-                                                                href="java-development-course-in-lucknow copy.php">Java
+                                                                href="java-development-course-in-lucknow.php">Java
                                                                 Development</a></li>
                                                         <li class="border-look" value="33"><a
                                                                 href="frontend-development-course-in-lucknow.php">Frontend

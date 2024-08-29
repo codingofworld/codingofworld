@@ -57,7 +57,7 @@ include('template/header.php');
                                             <li class="avg-rating"><i class="fas fa-star"></i> (4.8 Reviews)</li>
                                         </ul>
                                         <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
-                                        <p class="author">By <a href="#">David Millar</a></p>
+                                        <p class="author">By <ssa href="#">David Millar</a></p>
                                         <div class="courses__item-bottom">
                                             <div class="button">
                                                 <a href="course-details.html">
