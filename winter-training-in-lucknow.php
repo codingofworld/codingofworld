@@ -15,11 +15,11 @@ include('template/header.php');
                 <div class="breadcrumb__content">
                     <nav class="breadcrumb">
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="index-2.html">Home</a>
+                            <a href="index.php">Home</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">
-                            <a href="index-2.html">Training</a>
+                            <a href="javascript:void(0)">Training</a>
                         </span>
                         <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                         <span property="itemListElement" typeof="ListItem">Winter Training</span>
@@ -51,7 +51,7 @@ include('template/header.php');
                 <div class="courses__details-content">
                     <ul class="courses__item-meta list-wrap">
                         <li class="courses__item-tag">
-                            <a href="course.html">Training</a>
+                            <a href="javascript:void(0)">Training</a>
                         </li>
                         <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                     </ul>
@@ -715,7 +715,7 @@ include('template/header.php');
                     <div class="courses__details-enroll">
                         <div class="tg-button-wrap">
                             <a href="javascript:void(0)" class="btn btn-two arrow-btn">
-                                Registration Started
+                                Enroll Now
                                 <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable">
                             </a>
                         </div>

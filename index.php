@@ -30,7 +30,7 @@ include('template/header.php');
                             <p data-aos="fade-right" data-aos-delay="600">Every teaching and learning journey is unique.
                                 At CodeServir, we'll help guide your way. </p>
                             <div class="banner__btn-wrap" data-aos="fade-right" data-aos-delay="800">
-                                <a href="contact.html" class="btn arrow-btn">Enroll Now <img
+                                <a href="#" class="btn arrow-btn">Enroll Now <img
                                         src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                             </div>
                         </div>
@@ -335,7 +335,7 @@ include('template/header.php');
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="courses.html">
+                                            <a href="javascript:void(0);">
                                                 <div class="icon">
                                                     <i class="flaticon-graphic-design"></i>
                                                 </div>
@@ -345,7 +345,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="courses.html">
+                                            <a href="javascript:void(0);">
                                                 <div class="icon">
                                                     <i class="flaticon-coding"></i>
                                                 </div>
@@ -355,7 +355,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="courses.html">
+                                            <a href="javascript:void(0);">
                                                 <div class="icon">
                                                     <i class="flaticon-email"></i>
                                                 </div>
@@ -365,7 +365,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="courses.html">
+                                            <a href="javascript:void(0);">
                                                 <div class="icon">
                                                     <i class="flaticon-certificate"></i>
                                                 </div>
@@ -375,7 +375,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="courses.html">
+                                            <a href="javascript:void(0);">
                                                 <div class="icon">
                                                     <i class="flaticon-interaction"></i>
                                                 </div>
@@ -385,7 +385,7 @@ include('template/header.php');
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="categories__item">
-                                            <a href="courses.html">
+                                            <a href="javascript:void(0);">
                                                 <div class="icon">
                                                     <i class="flaticon-web-design"></i>
                                                 </div>
@@ -449,7 +449,7 @@ include('template/header.php');
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="course.html">Development</a>
+                                                    <a href="javascript:void(0)">Development</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.8 Reviews)</li>
                                             </ul>
@@ -475,7 +475,7 @@ include('template/header.php');
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="course.html">Design</a>
+                                                    <a href="javascript:void(0)">Design</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                                             </ul>
@@ -502,7 +502,7 @@ include('template/header.php');
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="course.html">Marketing</a>
+                                                    <a href="javascript:void(0)">Marketing</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.3 Reviews)</li>
                                             </ul>
@@ -529,7 +529,7 @@ include('template/header.php');
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="course.html">Business</a>
+                                                    <a href="javascript:void(0)">Business</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.8 Reviews)</li>
                                             </ul>
@@ -556,7 +556,7 @@ include('template/header.php');
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="course.html">Data Science</a>
+                                                    <a href="javascript:void(0)">Data Science</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                                             </ul>
@@ -583,7 +583,7 @@ include('template/header.php');
                                         <div class="courses__item-content">
                                             <ul class="courses__item-meta list-wrap">
                                                 <li class="courses__item-tag">
-                                                    <a href="course.html">Mathematic</a>
+                                                    <a href="javascript:void(0)">Mathematic</a>
                                                 </li>
                                                 <li class="avg-rating"><i class="fas fa-star"></i> (4.7 Reviews)</li>
                                             </ul>
@@ -695,20 +695,19 @@ include('template/header.php');
                                                 </div>
                                                 <span>(4.8 Ratings)</span>
                                             </div>
-                                            <h2 class="title">Abhishek Prajapati</h2>
-                                            <span class="designation">Web Design</span>
-                                            <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
-                                                reproduced below for those interested.</p>
-                                            <div class="instructor__social">
+                                            <h2 class="title">Krishna Mishra</h2>
+                                            <span class="designation">Sr. Software Engineer</span>
+                                            <p>Krishna Mishra is a Senior Software Engineer at CodeServir, specializing in crafting innovative software solutions. With deep technical expertise and a passion for coding, he drives impactful projects and enhances the company’s technological capabilities.</p>
+                                            <!-- <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
@@ -735,20 +734,19 @@ include('template/header.php');
                                                 </div>
                                                 <span>(4.8 Ratings)</span>
                                             </div>
-                                            <h2 class="title">William Hope</h2>
-                                            <span class="designation">Digital Marketing</span>
-                                            <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
-                                                reproduced below for those interested.</p>
-                                            <div class="instructor__social">
+                                            <h2 class="title">Dinesh Kumar</h2>
+                                            <span class="designation">Sr. App Developer</span>
+                                            <p>Dinesh Kumar is a Senior App Developer at CodeServir, where he excels in creating high-quality, user-centric applications. With a strong background in app development and a keen eye for detail, Dinesh drives innovation and ensures top-notch performance in every project.</p>
+                                            <!-- <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
@@ -775,20 +773,19 @@ include('template/header.php');
                                                 </div>
                                                 <span>(4.8 Ratings)</span>
                                             </div>
-                                            <h2 class="title">Sophia Ava</h2>
-                                            <span class="designation">Web Development</span>
-                                            <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
-                                                reproduced below for those interested.</p>
-                                            <div class="instructor__social">
+                                            <h2 class="title">Vimal Raj</h2>
+                                            <span class="designation">Sr. Software Engineer</span>
+                                            <p>Vimal Raj is a Senior Software Engineer at CodeServir, specializing in developing robust software solutions. With extensive experience and a dedication to technical excellence, Vimal plays a key role in driving innovative projects and optimizing system performance.</p>
+                                            <!-- <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
@@ -815,20 +812,19 @@ include('template/header.php');
                                                 </div>
                                                 <span>(4.8 Ratings)</span>
                                             </div>
-                                            <h2 class="title">Mark Jukarberg</h2>
-                                            <span class="designation">UX Design Lead</span>
-                                            <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
-                                                reproduced below for those interested.</p>
-                                            <div class="instructor__social">
+                                            <h2 class="title">Aakash Gupta</h2>
+                                            <span class="designation">Sr. App Developer</span>
+                                            <p>Aakash Gupta is a Senior App Developer at CodeServir, where he excels in creating high-quality, user-centric applications. With a strong background in app development and a keen eye for detail, Aakash drives innovation and ensures top-notch performance in every project.</p>
+                                            <!-- <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
@@ -855,20 +851,19 @@ include('template/header.php');
                                                 </div>
                                                 <span>(4.8 Ratings)</span>
                                             </div>
-                                            <h2 class="title">David Millar</h2>
-                                            <span class="designation">UX/UI Design</span>
-                                            <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
-                                                reproduced below for those interested.</p>
-                                            <div class="instructor__social">
+                                            <h2 class="title">Pritam Kumar Sharma</h2>
+                                            <span class="designation">Jr. Software Developer</span>
+                                            <p>Pritam Kumar Sharma is a Junior Software Developer at CodeServir, where he contributes to building and enhancing software applications. Eager to learn and innovate, Pritam focuses on delivering quality code and supporting the development team’s objectives.</p>
+                                            <!-- <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
@@ -895,27 +890,26 @@ include('template/header.php');
                                                 </div>
                                                 <span>(4.8 Ratings)</span>
                                             </div>
-                                            <h2 class="title">Mark Jukarberg</h2>
-                                            <span class="designation">UX Design Lead</span>
-                                            <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
-                                                reproduced below for those interested.</p>
-                                            <div class="instructor__social">
+                                            <h2 class="title">Aman Kumar</h2>
+                                            <span class="designation">Jr. Software Developer</span>
+                                            <p>Aman Kumar is a Junior Software Developer at CodeServir, where he assists in creating and refining software solutions. Enthusiastic and detail-oriented, Aman is committed to delivering high-quality code and contributing to the team’s success.</p>
+                                            <!-- <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
+                                <!-- <div class="swiper-slide">
                                     <div class="instructor__item-three">
                                         <div class="instructor__thumb-three">
                                             <img src="assets/img/instructor/h2_instructor03.png" alt="img">
@@ -940,7 +934,7 @@ include('template/header.php');
                                             <p>SkillGro The standard chunk of Lorem Ipsum used since the 1500s is
                                                 reproduced below for those interested.
                                             </p>
-                                            <div class="instructor__social">
+                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
                                                     <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
@@ -949,13 +943,13 @@ include('template/header.php');
                                                 </ul>
                                             </div>
                                             <div class="tg-button-wrap">
-                                                <a href="instructor-details.html" class="btn arrow-btn">Join My Class
+                                                <a href="contact-us.php" class="btn arrow-btn">Contact Us
                                                     <img src="assets/img/icons/right_arrow.svg" alt="img"
                                                         class="injectable"></a>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -988,10 +982,10 @@ include('template/header.php');
                                         <button><img src="assets/img/instructor/instructor_nav04.png"
                                                 alt="img"></button>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <!-- <div class="swiper-slide">
                                         <button><img src="assets/img/instructor/instructor_nav03.png"
                                                 alt="img"></button>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="instructor__nav-two">

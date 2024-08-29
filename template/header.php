@@ -167,12 +167,12 @@
                                 <div class="tgmenu__action">
                                     <ul class="list-wrap">
                                         <li class="header-btn login-btn">
-                                            <a href="login.html">Log in</a>
+                                            <a href="#">Enroll Now</a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="mobile-login-btn">
-                                    <a href="login.html"><img src="assets/img/icons/user.svg" alt=""
+                                    <a href="#"><img src="assets/img/icons/user.svg" alt=""
                                             class="injectable"></a>
                                 </div>
                                 <div class="mobile-nav-toggler"><i class="tg-flaticon-menu-1"></i></div>

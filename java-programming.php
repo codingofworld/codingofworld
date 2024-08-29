@@ -51,7 +51,7 @@ include('template/header.php');
                 <div class="courses__details-content">
                     <ul class="courses__item-meta list-wrap">
                         <li class="courses__item-tag">
-                            <a href="course.html">Training</a>
+                            <a href="javascript:void(0)">Training</a>
                         </li>
                         <li class="avg-rating"><i class="fas fa-star"></i> (4.5 Reviews)</li>
                     </ul>
