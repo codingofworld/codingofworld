@@ -220,7 +220,7 @@ include('template/header.php');
 
             try {
                 // Add data to Firestore
-                await addDoc(collection(db, "Registrations"), data);
+                await addDoc(collection(db, "LearingRegistrations"), data);
                 alert("Thank you so much, we will get back to you as soon as possible!");
                 this.reset();  // Reset the form after successful submission
             } catch (error) {

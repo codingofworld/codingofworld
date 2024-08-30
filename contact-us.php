@@ -189,7 +189,7 @@ include('template/header.php');
 
             try {
                 // Add data to Firestore
-                await addDoc(collection(db, "contacts"), data);
+                await addDoc(collection(db, "LearningcontactUs"), data);
                 alert("Thankyou so much we will conect to you as seen as possible !");
             } catch (error) {
                 console.error('Error adding document:', error);
