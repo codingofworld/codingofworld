@@ -30,7 +30,7 @@ include('template/header.php');
                             <p data-aos="fade-right" data-aos-delay="600">Every teaching and learning journey is unique.
                                 At CodeServir, we'll help guide your way. </p>
                             <div class="banner__btn-wrap" data-aos="fade-right" data-aos-delay="800">
-                                <a href="#" class="btn arrow-btn">Enroll Now <img
+                                <a href="registration.php" class="btn arrow-btn">Enroll Now <img
                                         src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                             </div>
                         </div>

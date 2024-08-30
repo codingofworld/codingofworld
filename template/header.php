@@ -167,7 +167,7 @@
                                 <div class="tgmenu__action">
                                     <ul class="list-wrap">
                                         <li class="header-btn login-btn">
-                                            <a href="#">Enroll Now</a>
+                                            <a href="registration.php">Enroll Now</a>
                                         </li>
                                     </ul>
                                 </div>
